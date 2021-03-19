@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Interop\\Routing": "src"
+      "Interop\\Routing\\": "src"
     }
   },
   "require": {
