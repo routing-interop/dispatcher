@@ -1,0 +1,21 @@
+{
+  "name": "router-interop/dispatcher",
+  "description": "An interoperable set of routing interfaces",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Keven",
+      "email": "hello@keven.fr"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Interop\\Routing": "src"
+    }
+  },
+  "require": {
+    "php": "^7.3",
+    "psr/http-message": "^1.0"
+  }
+}
