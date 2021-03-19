@@ -1,5 +1,5 @@
 {
-  "name": "router-interop/dispatcher",
+  "name": "routing-interop/dispatcher",
   "description": "An interoperable set of routing interfaces",
   "minimum-stability": "dev",
   "license": "MIT",
